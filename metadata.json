@@ -1,0 +1,6 @@
+{
+  "name": "Bharat Cart",
+  "description": "Premium Animated Indian eCommerce Platform - Shop Smarter. Live Better.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
